@@ -10,10 +10,10 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ```html
 <div class="table table-full">
-  <div class="table-row">
-    <div class="table-cell table-center table-middle"></div>
-    <div class="table-cell table-center table-middle table-flex"></div>
-    <div class="table-cell table-center table-middle"></div>
-  </div>
+    <div class="table-row">
+        <div class="table-cell table-center table-middle"></div>
+        <div class="table-cell table-center table-middle table-flex"></div>
+        <div class="table-cell table-center table-middle"></div>
+    </div>
 </div>
 ```
