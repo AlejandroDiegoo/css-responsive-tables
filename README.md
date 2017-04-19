@@ -6,7 +6,7 @@ It's a simple and predefined css file to make a responsive design by assigning c
 
 ### Example
 
-Add classes to your html elements to behave like the classic `<table>` adapted to the device size.
+Add classes to your html elements to behave like the classic **`<table>`** adapted to the device size.
 
 ```html
 <div class="table table-full">
@@ -17,3 +17,7 @@ Add classes to your html elements to behave like the classic `<table>` adapted t
     </div>
 </div>
 ```
+
+You can see **css-responsive-tables** working in:
+- https://github.com/AlejandroDiegoo/appest-reject
+- https://play.google.com/store/apps/details?id=com.appestreject
