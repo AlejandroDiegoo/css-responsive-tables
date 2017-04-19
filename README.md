@@ -6,6 +6,8 @@ It's a simple and predefined css file to make a responsive design by assigning c
 
 ### Example
 
+Add classes to your html elements to behave like the classic <table> adapted to the device size.
+
 ```html
 <div class="table table-full">
     <div class="table-row">
